@@ -5,3 +5,6 @@ Esta alteração foi feita no arquivo "meuCodigo.txt"
 na recém criada nova branch chamada "nanovaBranch".
 ====================================
 Outra alteração na branch "novaBranch".
+
+=============================================
+Outra ainda alteração na branch "novaBranch".
